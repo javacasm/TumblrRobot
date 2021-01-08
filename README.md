@@ -59,12 +59,12 @@ MPU6050
 
 ## Robot equilibrista
 
-[](https://circuitdigest.com/microcontroller-projects/arduino-based-self-balancing-robot)
+[Robot equilibrista](https://circuitdigest.com/microcontroller-projects/arduino-based-self-balancing-robot)
 
 
 ![](https://circuitdigest.com/sites/default/files/circuitdiagram_mic/Circuit-Diagram-for-DIY-Self-Balancing-Robot-using-Arduino.png)
 
-[V'ideo: ajuste de los par'ametros del PID](https://www.youtube.com/watch?v=cjSw7sc2JKk&feature=emb_title)
+[Vídeo: ajuste de los parámetros del PID](https://www.youtube.com/watch?v=cjSw7sc2JKk&feature=emb_title)
 
 ![](https://circuitdigest.com/sites/default/files/projectimage_mic/DIY-Self-Balancing-Robot-using-Arduino.jpg)
 
